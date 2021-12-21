@@ -1,0 +1,4 @@
+Rank,teamId,league,teamImageId,teamFullName,team,teamAbbrevName,espnTeamId,G,W,L,T,Win%,G_Score1st,W_Score1st,L_Score1st,T_Score1st,Win%_Score1st,G_Allow1st,W_Allow1st,L_Allow1st,T_Allow1st,Win%_Allow1st,G,teamId,null,seasonId,scatterId,scatterExtra,season
+TOTAL,,,,,-,,,10720,5349,5349,22,.500,5360,3453,1896,11,.645,5360,1896,3453,11,.355,10720,,,,,,
+AVERAGE,,,,,-,,,16.0,8.0,8.0,0.0,.500,5360,3453,1896,11,.645,5360,1896,3453,11,.355,16.0,,,,,,
+
